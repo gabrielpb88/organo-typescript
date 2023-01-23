@@ -22,7 +22,7 @@ const Time = ({ corPrimaria, corSecundaria, nome, colaboradores }: TimeProps) =>
       </div>
     </section>
   ) : (
-    ''
+    <></>
   );
 };
 
